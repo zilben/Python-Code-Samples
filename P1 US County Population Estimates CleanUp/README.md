@@ -17,14 +17,14 @@ The primary purpose of this notebook is to:
    - Files: `co_2000-09.csv`, `co_2010-19.csv`, `co_2020-23.csv` (renamed copies of original source files)
    - Structure: Each period's data is contained within a single CSV file.
    - Source URLs:
-     - [2000-09](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-counties.html)
-     - [2010-19](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html)
-     - [2020-23](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html)
+     - [2000-09](https://www.census.gov/data/datasets/time-series/demo/popest/intercensal-2000-2010-counties.html) https://www2.census.gov/programs-surveys/popest/datasets/2000-2010/intercensal/county/co-est00int-tot.csv
+     - [2010-19](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html) https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/co-est2019-alldata.csv
+     - [2020-23](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html) https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/counties/totals/co-est2023-alldata.csv
 
 2. **1980-89**:
    - File: `co-1980-89_tabs.xls` (renamed copy of original source file)
    - Structure: Each year's data is contained in a separate tab within a single Excel file.
-   - Source URL: [1980-89](https://www.census.gov/data/datasets/time-series/demo/popest/1980s-county.html)
+   - Source URL: [1980-89](https://www.census.gov/data/datasets/time-series/demo/popest/1980s-county.html) https://www2.census.gov/programs-surveys/popest/datasets/1980-1990/counties/asrh/pe-02.xls
 
 3. **1990-99**:
    - Files: `stch-icen19YY.txt` (one file per year)
