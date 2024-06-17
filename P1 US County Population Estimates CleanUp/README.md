@@ -1,6 +1,6 @@
 # US County Population Estimates Cleanup and Consolidation
 
-This JupyterLab Notebook is designed to consolidate yearly US county population estimate data from 1980 to 2023 into a single, normalized file. The script handles US Census data scattered across multiple files and formats, transforming and merging them into a unified format with three columns: FIPS, Year, and POP (population estimate).
+This JupyterLab Notebook (US County Pop Est CleanUp.ipynb) is designed to consolidate yearly US county population estimate data from 1980 to 2023 into a single, normalized file. The script handles US Census data scattered across multiple files and formats, transforming and merging them into a unified format with three columns: FIPS, Year, and POP (population estimate).
 
 ## Purpose
 
