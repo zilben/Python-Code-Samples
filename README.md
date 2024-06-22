@@ -40,9 +40,6 @@ python script_name.py
 ### Contributing
 Contributions are welcome. If you have any useful scripts or improvements to existing scripts, feel free to fork the repository and create a pull request with your changes.
 
-### License
-Specify your preferred license here, if any. (e.g., MIT License, Apache License 2.0, etc.)
-
 ### Contact
 If you have any questions or suggestions, feel free to open an issue.
 
