@@ -1,6 +1,6 @@
 # Python-Code-Samples
 
-Welcome to the Python-Code-Samples repository. This repository is a collection of various Python scripts demonstrating different techniques and methods to streamline data preparation and perform various types of analysis. Each script is designed to tackle a specific problem or showcase a particular approach, making it a valuable resource for learning and reference.
+Welcome to the Python-Code-Samples repository. This repository is a collection of various Python scripts I've developed demonstrating different techniques and methods to streamline data preparation and perform various types of analysis. Each script is designed to tackle a specific problem or showcase a particular approach, making it a valuable resource for learning and reference.
 
 ## Purpose
 
