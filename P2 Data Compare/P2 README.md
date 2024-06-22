@@ -13,7 +13,7 @@ This script contains a function `compare_data(df1, df2, join1, join2, join_how, 
 - **Requirements**:
   - The datasets must have the same number of columns.
   - The columns must be in the same order.
-  - The column names do not need to match.
+  - The column names <ins>do not</ins> need to match.
 
 ### Parameters
 
@@ -48,9 +48,9 @@ The sample data used for this script comes from the USAC Open Data portal, speci
     df1 = pd.read_csv('path/to/first/dataset.csv')
     df2 = pd.read_csv('path/to/second/dataset.csv')
 
-    # Define joining columns
-    join1 = ['column_name1']
-    join2 = ['column_name1']
+    # Define joining columns (one or multiple)
+    join1 = ['column_name1','column_name2']
+    join2 = ['column_name_1','column_name_2']
 
     # Define joining method
     join_how = 'inner'
@@ -77,8 +77,8 @@ df1 = pd.read_csv('sample_data_1.csv')
 df2 = pd.read_csv('sample_data_2.csv')
 
 # Define joining columns
-join1 = ['Entity Number']
-join2 = ['Entity Number']
+join1 = ['Entity Number','Physical_State']
+join2 = ['Entity No','State']
 
 # Define joining method
 join_how = 'inner'
