@@ -42,5 +42,3 @@ Contributions are welcome. If you have any useful scripts or improvements to exi
 
 ### Contact
 If you have any questions or suggestions, feel free to open an issue.
-
-By using and contributing to this repository, you agree to abide by the terms of the specified license.
